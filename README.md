@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![tt's github stats](https://github-readme-stats.vercel.app/api?username=wardseptember&show_icons=true)
+
 <!--
 **wardseptember/wardseptember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
